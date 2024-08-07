@@ -7,6 +7,8 @@ A Magisk/KernelSU module trying to add native eSIM management support for Xiaomi
 ## Tested devices
 
 - diting (Xiaomi 12T Pro/Redmi K50 Ultra)
+- marble (Redmi Note 12 Turbo/POCO F5 5G)
+- houji (Xiaomi 14)
 
 ## Tested SIMs
 
