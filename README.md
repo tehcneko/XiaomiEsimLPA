@@ -4,6 +4,9 @@ A Magisk/KernelSU module trying to add native eSIM management support for Xiaomi
 
 ![screenshot](https://github.com/user-attachments/assets/6065297c-ea7d-4b3b-ba03-9b6462a29186)
 
+> [!NOTE]
+> 5ber Ultra is not supported, use Standard or Premium instead(both using the same hardware).
+
 ## Tested devices
 
 - diting (Xiaomi 12T Pro/Redmi K50 Ultra)
