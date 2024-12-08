@@ -2,9 +2,12 @@
 <permissions>
    <privapp-permissions package="com.miui.euicc">
       <permission name="android.permission.MODIFY_PHONE_STATE" />
+      <permission name="android.permission.READ_PHONE_STATE" />
       <permission name="android.permission.WRITE_EMBEDDED_SUBSCRIPTIONS" />
       <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
       <permission name="android.permission.WRITE_SECURE_SETTINGS" />
       <permission name="android.permission.SECURE_ELEMENT_PRIVILEGED_OPERATION" />
+      <permission name="android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND" />
+      <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND" />
    </privapp-permissions>
 </permissions>
